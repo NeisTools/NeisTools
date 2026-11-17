@@ -1,0 +1,27 @@
+{
+  "catalogVersion": 1,
+  "updated": "2026-11-16",
+  "hub": { "version": "0.1.0" },
+  "apps": [
+    {
+      "id": "neischeck",
+      "name": "초등 학생부 기재 점검기",
+      "description": "나이스 종합일람표를 2026 학교생활기록부 기재요령 기준으로 점검합니다.",
+      "repo": "neischeck-app/neischeck",
+      "manifest": "latest.yml",
+      "displayName": "초등 학생부 기재 점검기",
+      "updateArgs": "",
+      "note": "설치 창이 뜹니다. 안내대로 눌러 설치합니다."
+    },
+    {
+      "id": "neisweekly",
+      "name": "나이스 주간학습 연결",
+      "description": "주간학습 한글 파일의 시간표를 나이스 학급시간표 입력 보조창으로 전달합니다.",
+      "repo": "NeisWeekly/NeisWeekly",
+      "manifest": "latest.json",
+      "displayName": "나이스 주간학습 연결",
+      "updateArgs": "/update",
+      "note": "처음 설치하면 Chrome 확장을 한 번 불러와야 합니다. 설치 창이 순서를 안내합니다."
+    }
+  ]
+}
