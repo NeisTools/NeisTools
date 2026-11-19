@@ -1,7 +1,7 @@
 {
   "catalogVersion": 1,
   "updated": "2026-11-19",
-  "hub": { "version": "0.2.0" },
+  "hub": { "version": "0.2.1" },
   "apps": [
     {
       "id": "neischeck",
