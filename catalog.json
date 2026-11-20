@@ -1,8 +1,8 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "hub": {
-    "version": "0.2.2"
+    "version": "0.2.3"
   },
   "apps": [
     {
